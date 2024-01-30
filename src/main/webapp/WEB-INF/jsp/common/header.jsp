@@ -148,15 +148,53 @@
 					<ul style="padding: 5px !important;">
 						<li><a href="#" class="nav_link"> <i
 								class='bx bxs-dashboard'></i> <span class="nav_name">Dashboard</span>
-						</a></li>
-						<li><a href="/farmers/addFarmerPage" class="nav_link"> <i
+						 </a></li>
+						 <li><a href="/farmers/addFarmerPage" class="nav_link"> <i
 								class="fa-solid fa-hospital-user"></i><span class="nav_name">Add
 									Student</span>
 						</a></li>
 						<li><a href="/farmers" class="nav_link"><i
 								class="fa-solid fa-hospital-user"></i> <span class="nav_name">All
 									Students</span> </a></li>
-					</ul>
+									
+							<li><a href="addEmployee/Employee-page" class="nav_link"><i
+								class="fa-solid fa-hospital-user"></i> <span class="nav_name">Add
+									Employee</span> </a></li>
+									
+									<li><a href="/addEmployee" class="nav_link"><i
+								class="fa-solid fa-hospital-user"></i> <span class="nav_name">Show All
+									Employee</span> </a></li>
+				
+			                        
+						  
+
+
+
+						    
+						                            
+
+
+
+						
+									
+									
+ 								
+									
+									
+									
+					
+ 					
+					
+					             
+                       <!-- Add more menu items as needed -->
+        </ul>
+    </div>
+    <!-- Add your main content here -->
+</body>
+</html>
+            <!-- Add more menu items as needed -->
+        </ul>
+    </div>
 
 				</div>
 			</div>
